@@ -1,5 +1,6 @@
-dash==2.14.0
-plotly==5.17.0
+dash
+plotly
+plotly.express
 gunicorn
 pandas
 dash-tools
